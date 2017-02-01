@@ -48,7 +48,7 @@ $('#addDrink').on('click', function() {
 // Other events, here is keydown:
 $('#typeHere1').on('keydown', function() {
   alert("keydown worked!")
-  })
+  // }
   // keypress:
   $('#typeHere2').on('keypress', function() {
     alert("keypress worked!")
